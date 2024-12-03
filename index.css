@@ -1,0 +1,8 @@
+
+#star-pattern,#square-pattern,#pyramid-pattern,#hollow-pattern{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    white-space: pre;
+    font-size: 18px;
+}
